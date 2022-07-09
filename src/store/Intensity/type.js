@@ -1,0 +1,1 @@
+export const GET_INTENSITY_LIST = 'GET_INTENSITY_LIST';

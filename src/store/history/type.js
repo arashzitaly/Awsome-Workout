@@ -1,0 +1,1 @@
+export const GET_HISTORY_LIST = 'GET_HISTORY_LIST';
