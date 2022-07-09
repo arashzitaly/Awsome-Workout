@@ -3,9 +3,10 @@ This Project make as Final Project for The course of Information technologies-Sy
 #Arash Ziaee
 ## University of Primorska - Famnit
 76210148@student.upr.si
+### Database
 We use the Firebase dataBase in this project.
 
-#INTRODUCTION
+# INTRODUCTION
 Nowadays, taking care of your body and your health is more important than everything. The
 motivation to schedule exercises and drag yourself into the class can be lacking at times.
 Working out at home is a convenient and cost-effective alternative to going to the gym.
