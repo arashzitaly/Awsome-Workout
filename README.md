@@ -19,6 +19,6 @@ mindfulness and improve your overall wellbeing.
 The aim of this application is to make your lifestyle healthier by tracking your movement and physical
 activities and meditation. It can even track your food intake and water on your eating pattern.
 
-# How to Install ?
+# How to Install?
 Link to application apk -> https://drive.google.com/file/d/15vGl6wG93bjoDcwTyQIZbO-tZyAgc_Cj/view?usp=sharing
 Tutorial of the application -> https://drive.google.com/file/d/1I41vRjIhv_KiBlC-mUv0GBIfuOYQm11W/view?usp=sharing
